@@ -1,5 +1,12 @@
 /node_modules
 .parcel-cache
-/components
-/reducers
-/actions
+/components/researchs
+/components/sessions
+/components/signin
+/components/signup
+/reducers/researchReducer.js
+/reducers/sessionReducer.js
+/reducers/userReducer.js
+/actions/notificationActions.js
+/actions/researchActions.js
+/actions/sessionActions.js
