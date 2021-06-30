@@ -1,0 +1,13 @@
+export const USER_REQUEST = 'USER_REQUEST'
+export const USER_SUCCESS = 'USER_SUCCESS'
+export const USER_FAIL = 'USER_FAIL'
+
+export const CLEAR_ERRORS = 'CLEAR_ERRORS'
+
+export const AUTH_REQUEST = 'AUTH_REQUEST'
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_FAIL = 'AUTH_FAIL'
+
+export const USERLIST_REQUEST = 'USERLIST_REQUEST'
+export const USERLIST_SUCCESS = 'USERLIST_SUCCESS'
+export const USERLIST_FAIL = 'USERLIST_FAIL'
